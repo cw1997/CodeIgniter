@@ -12,6 +12,8 @@ a rich set of libraries for commonly needed tasks, as well as a simple
 interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
+
+
 CodeIgniter是一个为那些使用PHP构建网站的开发者使用的应用开发框架工具包。
 他的目的是让你在开发一个项目的时候不必从头开始写代码。
 CodeIgniter提供了丰富的完成一些通用任务所需类库，
@@ -28,6 +30,8 @@ Release Information
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
 <https://codeigniter.com/download>`_ page.
+
+
 这个仓库中包含了未来版本中正在开发的代码。
 如需下载最新稳定版请访问`CodeIgniter下载页面
 <https://codeigniter.com/download>`_
@@ -41,6 +45,8 @@ Changelog and New Features
 
 You can find a list of all changes for each release in the `user
 guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+
+
 你可以在`用户引导 更新日志 <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_
 中找到一份包含每一个版本所有改动的列表。
 
@@ -57,6 +63,8 @@ PHP version 5.6 or newer is recommended.
 It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
 issues, as well as missing features.
+
+
 它可以在PHP 5.3.7 上良好的运行，
 但是我们强烈建议你不要在这些老版本PHP上运行，
 因为这些版本中有潜在的安全问题和性能问题，并且还有一些错误的特性。
@@ -70,6 +78,8 @@ Installation
 
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
+
+
 请参考CodeIgniter用户指引中的 `安装 <https://codeigniter.com/user_guide/installation/index.html>`_.
 
 *******
@@ -81,6 +91,8 @@ License
 
 Please see the `license
 agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
+
+
 请参阅 `许可协议 <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
 
 *********
@@ -104,6 +116,8 @@ Resources
 
 Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
+
+
 报告安全问题到我们的 `安全小组 <mailto:security@codeigniter.com>`_
 或者通过 `HackerOne的相关页面 <https://hackerone.com/codeigniter>`_, 感谢.
 
@@ -116,4 +130,6 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
 CodeIgniter小组感谢EllisLab，所有为CodeIgniter项目参与贡献的人，以及使用CodeIgniter的你。
