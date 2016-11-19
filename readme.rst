@@ -1,5 +1,7 @@
 ###################
 What is CodeIgniter
+###################
+###################
 CodeIgniter是什么
 ###################
 
@@ -18,6 +20,8 @@ CodeIgniter让你更加专注于如何创造你的项目，最小化写代码所
 
 *******************
 Release Information
+*******************
+*******************
 发布信息
 *******************
 
@@ -30,6 +34,8 @@ latest stable release please visit the `CodeIgniter Downloads
 
 **************************
 Changelog and New Features
+**************************
+**************************
 更新日志和新特性
 **************************
 
@@ -40,6 +46,8 @@ guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide
 
 *******************
 Server Requirements
+*******************
+*******************
 服务器要求
 *******************
 
@@ -55,6 +63,8 @@ issues, as well as missing features.
 
 ************
 Installation
+************
+************
 安装
 ************
 
@@ -64,6 +74,8 @@ of the CodeIgniter User Guide.
 
 *******
 License
+*******
+*******
 许可证
 *******
 
@@ -73,6 +85,8 @@ agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/so
 
 *********
 Resources
+*********
+*********
 资源
 *********
 
@@ -95,6 +109,8 @@ or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
 Acknowledgement
+***************
+***************
 感谢
 ***************
 
